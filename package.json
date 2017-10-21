@@ -1,0 +1,29 @@
+{
+  "name": "GMWarforged6049",
+  "version": "1.0.0",
+  "description": "Gm's assistant, he was obtained in one of many journeys.",
+  "main": "bot.js",
+  "author": "Zeinox",
+  "license": "ISC",
+  "repository": "https://github.com/Zeinox/GMsWarforged",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "child_process": "^1.0.2",
+    "discord.io": "^2.5.1",
+    "discord.js": "^11.1.0",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "jimp": "^0.2.28",
+    "opusscript": "0.0.3",
+    "process": "^0.11.10",
+    "promise": "^8.0.1",
+    "request": "^2.81.0",
+    "sharp": "^0.18.2",
+    "tinyreq": "^3.2.5",
+    "winston": "^2.3.1",
+    "youtube-dl": "^1.11.1",
+    "ytdl": "^0.7.0",
+    "ytdl-core": "^0.15.2"
+  }
+}
